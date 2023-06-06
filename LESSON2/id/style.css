@@ -1,0 +1,29 @@
+
+body{
+    background-color: gray;
+}
+
+#first-text {
+  color: white;
+  background-color: brown;
+  text-align: left;
+  font-size: 20px;
+  font-weight: normal;
+}
+
+#second-text{
+    color: rgb(241, 56, 87);
+    background-color: white;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+
+#third-text {
+  font-weight: normal;
+  font-size: 20px;
+  color: white;
+  background-color: #00a199;
+  text-align: right;
+}
